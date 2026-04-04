@@ -72,9 +72,82 @@
     },
     "ai": {
       "som": "rbxassetid://135219946610192",
-      "texto": "Ayy, Ayy, Ayyyyy,Ayy,Ayyyy,Aaaayyyy",
+      "texto": "Ayy, Ayy, Ayyyyyyy, Ayy, Ayyyy, Aaaayyyy",
       "vel": 0.1,
       "volume": 1
+    },
+    "oof": {
+      "som": "rbxassetid://6518811702",
+      "texto": "OOF!",
+      "vel": 0.05,
+      "volume": 3
+    },
+    "bruh": {
+      "som": "rbxassetid://5153845714",
+      "texto": "Bruh...",
+      "vel": 0.05,
+      "volume": 2
+    },
+    "vine boom": {
+      "som": "rbxassetid://5539660530",
+      "texto": "*BOOM*",
+      "vel": 0.05,
+      "volume": 3
+    },
+    "muda muda": {
+      "som": "rbxassetid://6667625720",
+      "texto": "MUDA MUDA MUDA MUDA!",
+      "vel": 0.08,
+      "volume": 3
+    },
+    "emotional damage": {
+      "som": "rbxassetid://7867240629",
+      "texto": "EMOTIONAL DAMAGE!!",
+      "vel": 0.05,
+      "volume": 3
+    },
+    "among us": {
+      "som": "rbxassetid://6707133526",
+      "texto": "Sus...",
+      "vel": 0.05,
+      "volume": 2
+    },
+    "he is a 10": {
+      "som": "rbxassetid://8802084951",
+      "texto": "He is a 10 but...",
+      "vel": 0.05,
+      "volume": 2
+    },
+    "rizz": {
+      "som": "rbxassetid://9062495345",
+      "texto": "W Rizz...",
+      "vel": 0.05,
+      "volume": 2
+    },
+    "coffin dance": {
+      "som": "rbxassetid://5524225476",
+      "texto": "Astronomia...",
+      "vel": 0.05,
+      "volume": 2
+    },
+    "john cena": {
+      "som": "rbxassetid://142376088",
+      "texto": "AND HIS NAME IS JOHN CENA!!!",
+      "vel": 0.05,
+      "volume": 4
+    },
+    "tuturu": {
+      "som": "rbxassetid://160432887",
+      "texto": "Tu-tu-ru~",
+      "vel": 0.05,
+      "volume": 2
+    },
+    "nyan cat": {
+      "som": "rbxassetid://144422935",
+      "texto": "Nyan Nyan Nyan~",
+      "vel": 0.1,
+      "volume": 2
     }
   }
 }
+
