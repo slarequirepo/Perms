@@ -1,7 +1,7 @@
 {
   "permissoes": [
     "GIqTXvPQArG",
-    "LGZIM84"
+    "nick2"
   ],
   "taunts": {
     "yare yare": {
@@ -35,6 +35,49 @@
       "volume": 4
     },
     "vai pagar": {
+      "som": "rbxassetid://4903895449",
+      "texto": "Voce definitivamente ira pagar.",
+      "vel": 0.05,
+      "volume": 2
+    },
+    "tatakae": {
+      "som": "rbxassetid://6952179465",
+      "texto": "Tatakae        Tatakae..",
+      "vel": 0.13,
+      "volume": 3
+    },
+    "voce e fraco": {
+      "som": "rbxassetid://6940930889",
+      "texto": "Vai ficar tudo bem, afinal... Voce e fraco...",
+      "vel": 0.08,
+      "volume": 3
+    },
+    "acho que": {
+      "som": "rbxassetid://93253958507628",
+      "texto": "Acho que vou pegar pesado",
+      "vel": 0.05,
+      "volume": 1
+    },
+    "fah": {
+      "som": "rbxassetid://131127009399892",
+      "texto": "FAH, FAH, FAH",
+      "vel": 0.05,
+      "volume": 1
+    },
+    "nossa": {
+      "som": "rbxassetid://130149208235174",
+      "texto": "Noooooooooosa",
+      "vel": 0.05,
+      "volume": 1
+    },
+    "nobruzera": {
+      "som": "rbxassetid://99625103815920",
+      "texto": "Ainhoo, nobruzera apelao",
+      "vel": 0.2,
+      "volume": 1
+    }
+  }
+}    "vai pagar": {
       "som": "rbxassetid://4903895449",
       "texto": "Voce definitivamente ira pagar.",
       "vel": 0.05,
