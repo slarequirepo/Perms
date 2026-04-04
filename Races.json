@@ -1,0 +1,63 @@
+{
+  "Permissions": {
+    "GIqTXvPQArG": {
+      "races": ["Anjo", "Hakaishin", "Kaioshin", "Instinto", "Glitch"],
+      "transform_perm": true,
+      "other_perm": true
+    },
+    "FenixNoCb": {
+      "races": ["Hakaishin", "Glitch"],
+      "transform_perm": true,
+      "other_perm": false
+    },
+    "Fonojonzo": {
+      "races": ["Anjo", "Hakaishin", "Kaioshin", "Instinto", "Glitch"],
+      "transform_perm": true,
+      "other_perm": true
+    },
+    "LGZIM84": {
+      "races": ["Hakaishin", "Glitch", "Anjo", "Instinto", "Kaioshin"],
+      "transform_perm": true,
+      "other_perm": true
+    },
+    "Nevescozkq": {
+      "races": ["Anjo"],
+      "transform_perm": true,
+      "other_perm": false
+    }
+  },
+  "Races": {
+    "Anjo": {
+      "dodge_chance": 65,
+      "clothes": false,
+      "bodycolors": false
+    },
+    "Kaioshin": {
+      "dodge_chance": 85,
+      "clothes": false,
+      "bodycolors": false
+    },
+    "Instinto": {
+      "dodge_chance": 100,
+      "sound": "rbxassetid://78708505318595",
+      "sound_looped": true,
+      "sound_pitch": 0.75,
+      "particles": true,
+      "clothes": false,
+      "bodycolors": false,
+      "no_accessories": true
+    },
+    "Hakaishin": {
+      "dodge_chance": 75,
+      "clothes": true,
+      "bodycolors": false,
+      "particles": true
+    },
+    "Glitch": {
+      "dodge_chance": 65,
+      "clothes": true,
+      "bodycolors": false
+    }
+  }
+}
+
