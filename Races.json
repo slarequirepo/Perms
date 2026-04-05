@@ -1,22 +1,22 @@
 {
   "Permissions": {
     "GIqTXvPQArG": {
-      "races": ["Anjo", "Hakaishin", "Kaioshin", "Instinto", "Glitch"],
+      "races": ["Anjo", "Hakaishin", "Kaioshin", "Instinto", "Glitch", "Uchiha"],
       "transform_perm": true,
       "other_perm": true
     },
     "FenixNoCb": {
-      "races": ["Hakaishin", "Glitch"],
+      "races": ["Hakaishin", "Glitch", "Uchiha"],
       "transform_perm": true,
       "other_perm": false
     },
     "Fonojonzo": {
-      "races": ["Anjo", "Hakaishin", "Kaioshin", "Instinto", "Glitch"],
+      "races": ["Anjo", "Hakaishin", "Kaioshin", "Instinto", "Glitch", "Uchiha"],
       "transform_perm": true,
       "other_perm": true
     },
     "LGZIM84": {
-      "races": ["Hakaishin", "Glitch", "Anjo", "Instinto", "Kaioshin"],
+      "races": ["Hakaishin", "Glitch", "Anjo", "Instinto", "Kaioshin", "Uchiha"],
       "transform_perm": true,
       "other_perm": true
     },
