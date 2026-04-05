@@ -1,27 +1,54 @@
 {
   "Permissions": {
     "GIqTXvPQArG": {
-      "races": ["Anjo", "Hakaishin", "Kaioshin", "Instinto", "Glitch", "Uchiha"],
+      "races": [
+        "Anjo",
+        "Hakaishin",
+        "Kaioshin",
+        "Instinto",
+        "Glitch",
+        "Uchiha"
+      ],
       "transform_perm": true,
       "other_perm": true
     },
     "FenixNoCb": {
-      "races": ["Hakaishin", "Glitch", "Uchiha"],
+      "races": [
+        "Hakaishin",
+        "Glitch",
+        "Uchiha"
+      ],
       "transform_perm": true,
       "other_perm": false
     },
     "Fonojonzo": {
-      "races": ["Anjo", "Hakaishin", "Kaioshin", "Instinto", "Glitch", "Uchiha"],
+      "races": [
+        "Anjo",
+        "Hakaishin",
+        "Kaioshin",
+        "Instinto",
+        "Glitch",
+        "Uchiha"
+      ],
       "transform_perm": true,
       "other_perm": true
     },
     "LGZIM84": {
-      "races": ["Hakaishin", "Glitch", "Anjo", "Instinto", "Kaioshin", "Uchiha"],
+      "races": [
+        "Hakaishin",
+        "Glitch",
+        "Anjo",
+        "Instinto",
+        "Kaioshin",
+        "Uchiha"
+      ],
       "transform_perm": true,
       "other_perm": true
     },
     "Nevescozkq": {
-      "races": ["Anjo"],
+      "races": [
+        "Anjo"
+      ],
       "transform_perm": true,
       "other_perm": false
     }
@@ -30,14 +57,12 @@
     "Anjo": {
       "dodge_chance": 65,
       "clothes": false,
-      "bodycolors": false,
-      "LocalScripts": []
+      "bodycolors": false
     },
     "Kaioshin": {
       "dodge_chance": 85,
       "clothes": false,
-      "bodycolors": false,
-      "LocalScripts": []
+      "bodycolors": false
     },
     "Instinto": {
       "dodge_chance": 100,
@@ -47,28 +72,23 @@
       "particles": true,
       "clothes": false,
       "bodycolors": false,
-      "no_accessories": true,
-      "LocalScripts": []
+      "no_accessories": true
     },
     "Hakaishin": {
       "dodge_chance": 75,
       "clothes": true,
       "bodycolors": false,
-      "particles": true,
-      "LocalScripts": []
+      "particles": true
     },
     "Glitch": {
       "dodge_chance": 65,
       "clothes": true,
-      "bodycolors": false,
-      "LocalScripts": []
+      "bodycolors": false
     },
     "Uchiha": {
-      "dodge_chance": 0,
+      "dodge_chance": 70,
       "clothes": false,
-      "bodycolors": false,
-      "LocalScripts": ["SharinganBtn", "SusanooUchiha"]
+      "bodycolors": false
     }
   }
 }
-
