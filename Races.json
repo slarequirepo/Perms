@@ -30,12 +30,14 @@
     "Anjo": {
       "dodge_chance": 65,
       "clothes": false,
-      "bodycolors": false
+      "bodycolors": false,
+      "LocalScripts": []
     },
     "Kaioshin": {
       "dodge_chance": 85,
       "clothes": false,
-      "bodycolors": false
+      "bodycolors": false,
+      "LocalScripts": []
     },
     "Instinto": {
       "dodge_chance": 100,
@@ -45,19 +47,27 @@
       "particles": true,
       "clothes": false,
       "bodycolors": false,
-      "no_accessories": true
+      "no_accessories": true,
+      "LocalScripts": []
     },
     "Hakaishin": {
       "dodge_chance": 75,
       "clothes": true,
       "bodycolors": false,
-      "particles": true
+      "particles": true,
+      "LocalScripts": []
     },
     "Glitch": {
       "dodge_chance": 65,
       "clothes": true,
-      "bodycolors": false
+      "bodycolors": false,
+      "LocalScripts": []
+    },
+    "Uchiha": {
+      "dodge_chance": 70,
+      "clothes": false,
+      "bodycolors": false,
+      "LocalScripts": ["PowerS"]
     }
   }
 }
-
