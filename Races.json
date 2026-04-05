@@ -86,7 +86,7 @@
       "bodycolors": false
     },
     "Uchiha": {
-      "dodge_chance": 70,
+      "dodge_chance": 0,
       "clothes": false,
       "bodycolors": false
     }
