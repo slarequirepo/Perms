@@ -64,10 +64,11 @@
       "LocalScripts": []
     },
     "Uchiha": {
-  "dodge_chance": 70,
-  "clothes": false,
-  "bodycolors": false,
-  "LocalScripts": ["SharinganBtn", "SusanooUchiha"]
+      "dodge_chance": 0,
+      "clothes": false,
+      "bodycolors": false,
+      "LocalScripts": ["SharinganBtn", "SusanooUchiha"]
     }
   }
 }
+
