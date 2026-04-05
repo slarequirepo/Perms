@@ -67,7 +67,7 @@
   "dodge_chance": 70,
   "clothes": false,
   "bodycolors": false,
-  "LocalScripts": ["PowerS"]
+  "LocalScripts": ["SharinganBtn", "SusanooUchiha"]
     }
   }
 }
