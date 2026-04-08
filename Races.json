@@ -25,14 +25,12 @@
       "transform_perm": true,
       "other_perm": false
     },
-
     "LUIZINHO_RT": {
       "races": ["Anjo"],
       "transform_perm": true,
       "other_perm": false
     }
   },
-
   "Races": {
     "Anjo": {
       "dodge_chance": 65,
@@ -64,6 +62,12 @@
       "dodge_chance": 65,
       "clothes": true,
       "bodycolors": false
+    },
+    "Uchiha": {
+      "dodge_chance": 0,
+      "clothes": false,
+      "bodycolors": false,
+      "no_accessories": true
     }
   }
 }
