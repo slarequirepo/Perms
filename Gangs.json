@@ -1,0 +1,209 @@
+[
+  {
+    "ID": 35785429,
+    "Nome": "Zenin",
+    "RankMinimo": 1,
+    "HpMaximo": 2000,
+    "Estilos": {
+      "Nome":    { "Cor": [0, 0, 0],   "Contorno": [0, 0, 0] },
+      "Patente": { "Cor": [0, 0, 0],   "Contorno": [0, 0, 0] },
+      "Time":    { "Cor": [0, 0, 0],   "Contorno": [0, 0, 0] }
+    },
+    "Itens": [
+      { "Nome": "Rinnegan", "RankNecessario": 1 },
+      { "Nome": "Koku",     "RankNecessario": 1 },
+      { "Nome": "Raio",     "RankNecessario": 1 }
+    ]
+  },
+  {
+    "ID": 36086283,
+    "Nome": "Giq's Friend",
+    "RankMinimo": 1,
+    "HpMaximo": 10000,
+    "Estilos": {
+      "Nome":    { "Cor": [0, 0, 0],   "Contorno": [255, 255, 255] },
+      "Patente": { "Cor": [0, 0, 0],   "Contorno": [107, 37, 1]   },
+      "Time":    { "Cor": [0, 0, 0],   "Contorno": [107, 37, 1]   }
+    },
+    "Itens": [
+      { "Nome": "Susanoo",        "RankNecessario": 1 },
+      { "Nome": "RinneganLuas",   "RankNecessario": 1 },
+      { "Nome": "Pisao",          "RankNecessario": 1 },
+      { "Nome": "HinokamiKagura", "RankNecessario": 1 },
+      { "Nome": "BlackHole",      "RankNecessario": 1 },
+      { "Nome": "Foice",          "RankNecessario": 1 },
+      { "Nome": "Raio",           "RankNecessario": 1 },
+      { "Nome": "DemonBash",      "RankNecessario": 1 },
+      { "Nome": "YinYang",        "RankNecessario": 1 },
+      { "Nome": "ColateralYin",   "RankNecessario": 1 },
+      { "Nome": "Koku",           "RankNecessario": 1 },
+      { "Nome": "Chute",          "RankNecessario": 1 }
+    ]
+  },
+  {
+    "ID": 32325896,
+    "Nome": "Tokyo Manji Gang",
+    "RankMinimo": 2,
+    "HpMaximo": 2000,
+    "Estilos": {
+      "Nome":    { "Cor": [0, 0, 0],   "Contorno": [255, 255, 255] },
+      "Patente": { "Cor": [0, 0, 0],   "Contorno": [255, 255, 255] },
+      "Time":    { "Cor": [0, 0, 0],   "Contorno": [255, 255, 0]   }
+    },
+    "Itens": [
+      { "Nome": "Susanoo",        "RankNecessario": 2 },
+      { "Nome": "Rinnegan",       "RankNecessario": 2 },
+      { "Nome": "Pisao",          "RankNecessario": 2 },
+      { "Nome": "HinokamiKagura", "RankNecessario": 2 },
+      { "Nome": "ColateralYin",   "RankNecessario": 2 },
+      { "Nome": "BlackHole",      "RankNecessario": 2 },
+      { "Nome": "Foice",          "RankNecessario": 2 },
+      { "Nome": "Raio",           "RankNecessario": 2 },
+      { "Nome": "Chute",          "RankNecessario": 2 },
+      { "Nome": "Koku",           "RankNecessario": 2 }
+    ]
+  },
+  {
+    "ID": 36015351,
+    "Nome": "Betinhas",
+    "RankMinimo": 1,
+    "HpMaximo": 10000,
+    "Estilos": {
+      "Nome":    { "Cor": [255, 0, 255], "Contorno": [255, 0, 255] },
+      "Patente": { "Cor": [255, 0, 255], "Contorno": [255, 0, 255] },
+      "Time":    { "Cor": [255, 0, 255], "Contorno": [255, 0, 255] }
+    },
+    "Itens": [
+      { "Nome": "Susanoo",        "RankNecessario": 1 },
+      { "Nome": "Raio",           "RankNecessario": 1 },
+      { "Nome": "Rinnegan",       "RankNecessario": 1 },
+      { "Nome": "Pisao",          "RankNecessario": 1 },
+      { "Nome": "HinokamiKagura", "RankNecessario": 1 },
+      { "Nome": "Colateral",      "RankNecessario": 1 },
+      { "Nome": "BlackHole",      "RankNecessario": 1 },
+      { "Nome": "RaioD",          "RankNecessario": 1 },
+      { "Nome": "Koku",           "RankNecessario": 1 },
+      { "Nome": "Chute",          "RankNecessario": 1 }
+    ]
+  },
+  {
+    "ID": 986630991,
+    "Nome": "Brahma",
+    "RankMinimo": 1,
+    "HpMaximo": 2000,
+    "PiscaPatente": true,
+    "Estilos": {
+      "Nome": { "Cor": [255, 255, 255], "Contorno": [0, 0, 0] },
+      "Time": { "Cor": [255, 255, 255], "Contorno": [0, 0, 0] }
+    },
+    "Itens": [
+      { "Nome": "Rinnegan",  "RankNecessario": 1 },
+      { "Nome": "Koku",      "RankNecessario": 1 },
+      { "Nome": "Raio",      "RankNecessario": 1 },
+      { "Nome": "Colateral", "RankNecessario": 1 }
+    ]
+  },
+  {
+    "ID": 34671529,
+    "Nome": "Os Soldados",
+    "RankMinimo": 1,
+    "HpMaximo": 2000,
+    "Estilos": {
+      "Nome":    { "Cor": [57, 255, 20], "Contorno": [0, 0, 0] },
+      "Patente": { "Cor": [57, 255, 20], "Contorno": [0, 0, 0] },
+      "Time":    { "Cor": [57, 255, 20], "Contorno": [0, 0, 0] }
+    },
+    "Itens": [
+      { "Nome": "Rinnegan",  "RankNecessario": 1 },
+      { "Nome": "Koku",      "RankNecessario": 1 },
+      { "Nome": "Raio",      "RankNecessario": 1 },
+      { "Nome": "Colateral", "RankNecessario": 1 }
+    ]
+  },
+  {
+    "ID": 34427514,
+    "Nome": "炎 Os Hashiras",
+    "RankMinimo": 1,
+    "HpMaximo": 2000,
+    "Estilos": {
+      "Nome":    { "Cor": [0, 0, 0], "Contorno": [0, 51, 102] },
+      "Patente": { "Cor": [0, 0, 0], "Contorno": [0, 51, 102] },
+      "Time":    { "Cor": [0, 0, 0], "Contorno": [0, 0, 0]    }
+    },
+    "Itens": [
+      { "Nome": "Rinnegan", "RankNecessario": 1 },
+      { "Nome": "Koku",     "RankNecessario": 1 },
+      { "Nome": "Raio",     "RankNecessario": 1 },
+      { "Nome": "Colateral","RankNecessario": 1 },
+      { "Nome": "Foice",    "RankNecessario": 1 },
+      { "Nome": "YinYang",  "RankNecessario": 1 },
+      { "Nome": "Susanoo",  "RankNecessario": 1 }
+    ]
+  },
+  {
+    "ID": 698000525,
+    "Nome": "Tokyo",
+    "RankMinimo": 1,
+    "HpMaximo": 2000,
+    "Estilos": {
+      "Nome":    { "Cor": [0, 0, 0], "Contorno": [255, 255, 255] },
+      "Patente": { "Cor": [0, 0, 0], "Contorno": [255, 255, 255] },
+      "Time":    { "Cor": [0, 0, 0], "Contorno": [255, 255, 0]   }
+    },
+    "Itens": [
+      { "Nome": "Susanoo",        "RankNecessario": 1 },
+      { "Nome": "Rinnegan",       "RankNecessario": 1 },
+      { "Nome": "Pisao",          "RankNecessario": 1 },
+      { "Nome": "HinokamiKagura", "RankNecessario": 1 },
+      { "Nome": "Colateral",      "RankNecessario": 1 },
+      { "Nome": "BlackHole",      "RankNecessario": 1 },
+      { "Nome": "RaioD",          "RankNecessario": 1 },
+      { "Nome": "Raio",           "RankNecessario": 1 },
+      { "Nome": "Chute",          "RankNecessario": 1 },
+      { "Nome": "Koku",           "RankNecessario": 1 }
+    ]
+  },
+  {
+    "ID": 34792528,
+    "Nome": "Dual体力",
+    "RankMinimo": 1,
+    "HpMaximo": 2000,
+    "Estilos": {
+      "Nome":    { "Cor": [255, 255, 255], "Contorno": [0, 0, 0] },
+      "Patente": { "Cor": [255, 255, 255], "Contorno": [0, 0, 0] },
+      "Time":    { "Cor": [255, 255, 255], "Contorno": [0, 0, 0] }
+    },
+    "Itens": [
+      { "Nome": "Rinnegan", "RankNecessario": 1 },
+      { "Nome": "Susanoo",  "RankNecessario": 1 },
+      { "Nome": "Raio",     "RankNecessario": 1 },
+      { "Nome": "Foice",    "RankNecessario": 1 }
+    ]
+  },
+  {
+    "ID": 7572239,
+    "Nome": "Zero Catalyst",
+    "RankMinimo": 1,
+    "HpMaximo": 1000,
+    "Estilos": {
+      "Nome":    { "Cor": [255, 255, 255], "Contorno": [164, 61, 255] },
+      "Patente": { "Cor": [255, 255, 255], "Contorno": [164, 61, 255] },
+      "Time":    { "Cor": [255, 255, 255], "Contorno": [164, 61, 255] }
+    },
+    "Itens": [
+      { "Nome": "Susanoo",        "RankNecessario": 1 },
+      { "Nome": "RinneganLuas",   "RankNecessario": 1 },
+      { "Nome": "Pisao",          "RankNecessario": 1 },
+      { "Nome": "HinokamiKagura", "RankNecessario": 1 },
+      { "Nome": "BlackHole",      "RankNecessario": 1 },
+      { "Nome": "Foice",          "RankNecessario": 1 },
+      { "Nome": "Raio",           "RankNecessario": 1 },
+      { "Nome": "DemonBash",      "RankNecessario": 1 },
+      { "Nome": "YinYang",        "RankNecessario": 1 },
+      { "Nome": "Colateral",      "RankNecessario": 1 },
+      { "Nome": "Koku",           "RankNecessario": 1 },
+      { "Nome": "Chute",          "RankNecessario": 1 }
+    ]
+  }
+]
+
